@@ -1,0 +1,27 @@
+.shopping-link{
+    text-decoration: none;
+    color: inherit;
+}
+.shoppingCart{
+    margin-right: 5px;
+}
+.cartItemImg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+.cartItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.cartItemDetail{
+    display: flex;
+    flex-direction: column;
+}
+.dropdownMenu{
+    width: 200px;
+    padding: 20px;
+}
